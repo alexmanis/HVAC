@@ -11,7 +11,7 @@
 
 ///// Wifi & MQTT Connection & Topics /////
 //char MQTT_srv[] = "mqtt.m2m.ce.teiep.gr";  // Mqtt Broker URL
-char MQTT_srv[] = "iot.eclipse.org";  // Mqtt Broker URL
+//char MQTT_srv[] = "iot.eclipse.org";  // Mqtt Broker URL
 char MQTT_srv_alt[] = "iot.eclipse.org"; // Mqtt alternate Broker URL
 int port = 1883;     // Port number
 char clientID[10];   // Client ID to connect to broker
